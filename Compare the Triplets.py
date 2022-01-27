@@ -1,5 +1,6 @@
 # Compare the Triplets
 
+
 # HackerRank Problem solved using Python.
 
 #!/bin/python3

@@ -1,6 +1,7 @@
 # Birthday Cake Candles
 
 
+
 # HackerRank problem solved using Python.
 
 #!/bin/python3

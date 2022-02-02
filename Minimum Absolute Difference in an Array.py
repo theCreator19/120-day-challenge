@@ -1,5 +1,6 @@
 # Minimum Absolute Difference in an Array
 
+
 # HackerRack problem solved using Python.
 
 #!/bin/python3

@@ -1,5 +1,6 @@
 # Viral Advertising
 
+
 # HackerRank Problem solved using Python.
 
 #!/bin/python3

@@ -1,5 +1,6 @@
 # Simple Array Sum
 
+
 # HackerRank Problem solved using Python.
 
 #!/bin/python3
